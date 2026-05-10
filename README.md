@@ -19,8 +19,11 @@ Screens (5 total):
 
 📩 Contact: mohit124078@gmail.com
 
+## Screenshots
 
-
+<img src="https://i.postimg.cc/MGyYrvHh/Screenshot-2026-05-10-10-30-56-79-f03b64a4de8668f03dceef83bacfd39a.jpg">
+<img src="assets/images/cart.png" width="250">
+<img src="assets/images/profile.png" width="250">
 ## Getting Started
 
 This project is a starting point for a Flutter application.
