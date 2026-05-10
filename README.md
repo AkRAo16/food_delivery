@@ -15,7 +15,11 @@ Screens (5 total):
 
 5. User Profile & Order History — Profile info, past orders list with reorder option, saved addresses, and settings.
 
-## 🚀 Buy the Full Version with Complete Database — Only ₹499/-
+## 🚀 Buy the Full Version with Complete Database — Only ₹199/-
+
+📩 Contact: mohit124078@gmail.com
+
+
 
 ## Getting Started
 
