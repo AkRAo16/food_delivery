@@ -4,16 +4,16 @@
 Style: Modern & minimal (clean whites, soft shadows, clean typography)
 Screens (5 total):
 
-1. Home / Restaurant Listing — Search bar, category filter chips (Biryani, Pizza, etc.), featured banners, and a scrollable restaurant card list with ratings, delivery time & minimum order.
+1.**Home / Restaurant Listing** — Search bar, category filter chips (Biryani, Pizza, etc.), featured banners, and a scrollable restaurant card list with ratings, delivery time & minimum order.
 
-2. Restaurant Detail & Menu — Header image, restaurant info, tabbed menu categories, item cards with add/remove buttons, and a sticky bottom cart bar.
+2. **Restaurant Detail & Menu** — Header image, restaurant info, tabbed menu categories, item cards with add/remove buttons, and a sticky bottom cart bar.
 
    
-3. Cart & Checkout — Item summary, quantity controls, promo code field, delivery address selector, price breakdown, and a "Place Order" CTA button.
+3. **Cart & Checkout** — Item summary, quantity controls, promo code field, delivery address selector, price breakdown, and a "Place Order" CTA button.
 
-4.Order Tracking — Live status stepper (Order Placed → Preparing → Out for Delivery → Delivered), delivery agent info card, and an estimated time display.
+4.**Order Tracking** — Live status stepper (Order Placed → Preparing → Out for Delivery → Delivered), delivery agent info card, and an estimated time display.
 
-5. User Profile & Order History — Profile info, past orders list with reorder option, saved addresses, and settings.
+5. **User Profile & Order History** — Profile info, past orders list with reorder option, saved addresses, and settings.
 
 ## 🚀 Buy the Full Version with Complete Database — Only ₹199/-
 
@@ -22,8 +22,11 @@ Screens (5 total):
 ## Screenshots
 
 <img src="https://i.postimg.cc/MGyYrvHh/Screenshot-2026-05-10-10-30-56-79-f03b64a4de8668f03dceef83bacfd39a.jpg">
-<img src="assets/images/cart.png" width="250">
-<img src="assets/images/profile.png" width="250">
+<img src="https://i.postimg.cc/BQXBfhtV/Screenshot-2026-05-10-10-31-02-88-f03b64a4de8668f03dceef83bacfd39a.jpg">
+<img src="https://i.postimg.cc/j5xygcGQ/Screenshot-2026-05-10-10-31-15-20-f03b64a4de8668f03dceef83bacfd39a.jpg">
+<img src="https://i.postimg.cc/Y9dYJg7B/Screenshot-2026-05-10-10-31-19-44-f03b64a4de8668f03dceef83bacfd39a.jpg">
+<img src="https://i.postimg.cc/85ZMqWSX/Screenshot-2026-05-10-10-31-25-45-f03b64a4de8668f03dceef83bacfd39a.jpg">
+<img src="https://i.postimg.cc/3wHXpY1P/Screenshot-2026-05-10-10-31-31-73-f03b64a4de8668f03dceef83bacfd39a.jpg">
 ## Getting Started
 
 This project is a starting point for a Flutter application.
