@@ -1,6 +1,16 @@
 # foodhansi
 
-A new Flutter project.
+🍔 Multi-Restaurant Food Delivery App — Flutter
+Style: Modern & minimal (clean whites, soft shadows, clean typography)
+Screens (5 total):
+
+Home / Restaurant Listing — Search bar, category filter chips (Biryani, Pizza, etc.), featured banners, and a scrollable restaurant card list with ratings, delivery time & minimum order.
+Restaurant Detail & Menu — Header image, restaurant info, tabbed menu categories, item cards with add/remove buttons, and a sticky bottom cart bar.
+Cart & Checkout — Item summary, quantity controls, promo code field, delivery address selector, price breakdown, and a "Place Order" CTA button.
+Order Tracking — Live status stepper (Order Placed → Preparing → Out for Delivery → Delivered), delivery agent info card, and an estimated time display.
+User Profile & Order History — Profile info, past orders list with reorder option, saved addresses, and settings.
+
+
 
 ## Getting Started
 
